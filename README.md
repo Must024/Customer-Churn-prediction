@@ -67,14 +67,14 @@ customer-churn-prediction/
 ##  Key Visuals
 
 ### Churn Distribution
-![Churn Distribution](Slide5.JPG)
+![Churn Distribution](image/Slide5.JPG)
 ### Churn by Contract Type
-![Contract Type vs Churn](Slide6.JPG)
+![Contract Type vs Churn](image/Slide6.JPG)
 ### Model Comparison
-![Model Comparison](Slide8.JPG)
+![Model Comparison](image/Slide8.JPG)
 
 ### SHAP Summary Plot
-![SHAP Summary Plot](Slide9.JPG)
+![SHAP Summary Plot](image/Slide9.JPG)
 
 ---
 
@@ -98,9 +98,9 @@ customer-churn-prediction/
 
 ##  Deliverables
 -  **Notebook:** [Customer Churn Analysis](https://github.com/Must024/Customer-Churn-prediction/blob/main/Customer%20Churn%20Analysis%20for%20a%20Subscription-Based%20Business%20(2).ipynb)
--  **Slides (PDF):** [Customer Churn Presentation](https://github.com/Must024/Customer-Churn-prediction/blob/main/Customer%20Churn%20Prediction%20presentation.pdf)
-- ️ **SHAP Summary Plot:** ![SHAP](images/shap_summary.png)
-
+-  **Slides (JPG):** [Customer Churn Presentation](https://github.com/Must024/Customer-Churn-prediction/blob/main/Customer%20Churn%20Prediction%20presentation.pdf)
+- ️ **SHAP Summary Plot:** ![SHAP](image/Slide9.JPG)
+- 
 ---
 
 ## ️ Tools & Libraries
@@ -114,3 +114,4 @@ customer-churn-prediction/
 ##  Author
 **Gafar Mustopha** – Data Analyst  
  [LinkedIn](www.linkedin.com/in/mustopha-gafar-6207a6325) |  [GitHub](https://github.com/) | [Email](Mustopha024@Gmail.com)
+Update README.md
