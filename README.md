@@ -115,4 +115,4 @@ This project answers two key questions:
 
 ##  Author
 **Gafar Mustopha** – Data Analyst  
- [LinkedIn](www.linkedin.com/in/mustopha-gafar-6207a6325) |  [GitHub](https://github.com/) | [Email](Mustopha024@Gmail.com)
+ [LinkedIn](www.linkedin.com/in/mustopha-gafar-6207a6325) |  [GitHub](https://github.com/Must024/Customer-Churn-prediction/tree/main) | [Email](Mustopha024@Gmail.com)
