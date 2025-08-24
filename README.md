@@ -97,8 +97,8 @@ customer-churn-prediction/
 ---
 
 ##  Deliverables
--  **Notebook:** [Customer Churn Analysis](https://github.com/Must024/Customer-Churn-prediction/blob/main/Customer%20Churn%20Analysis%20for%20a%20Subscription-Based%20Business%20(2).ipynb)
--  **Slides (JPG):** [Customer Churn Presentation](https://github.com/Must024/Customer-Churn-prediction/blob/main/Customer%20Churn%20Prediction%20presentation.pdf)
+-  **Notebook:** [Customer Churn Analysis](https://github.com/Must024/Customer-Churn-prediction/blob/main/Customer%20Churn%20Analysis.ipynb)
+-  **Slides (JPG):** [Customer Churn Presentation](https://github.com/Must024/Customer-Churn-prediction/tree/main/image)
 - ️ **SHAP Summary Plot:** ![SHAP](image/Slide9.JPG)
 - 
 ---
