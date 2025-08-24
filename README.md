@@ -114,4 +114,3 @@ customer-churn-prediction/
 ##  Author
 **Gafar Mustopha** – Data Analyst  
  [LinkedIn](www.linkedin.com/in/mustopha-gafar-6207a6325) |  [GitHub](https://github.com/) | [Email](Mustopha024@Gmail.com)
-Update README.md
