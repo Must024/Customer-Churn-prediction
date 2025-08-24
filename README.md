@@ -16,19 +16,21 @@ This project answers two key questions:
 
 ##  Project Structure
 ```
-customer-churn-prediction/
-│
-├── notebooks/
-│   └── Customer_Churn_Analysis.ipynb
-├── slides/
-│   └── Customer_Churn_Presentation.pdf
-├── images/
-│   ├── churn_distribution.png
-│   ├── contract_type_churn.png
-│   ├── shap_summary.png
-│   └── model_comparison.png
-├── requirements.txt
-└── README.md
+├── image/
+│ ├── Slide1.JPG
+│ ├── Slide2.JPG
+│ ├── Slide3.JPG
+│ ├── Slide4.JPG
+│ ├── Slide5.JPG
+│ ├── Slide6.JPG
+│ ├── Slide7.JPG
+│ ├── Slide8.JPG
+│ ├── Slide9.JPG
+│ ├── Slide10.JPG
+│ ├── Slide11.JPG
+│ ├── Slide12.JPG
+├── Customer Churn Analysis.ipynb
+├── README.md
 ```
 
 ---
