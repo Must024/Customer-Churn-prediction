@@ -69,13 +69,12 @@ customer-churn-prediction/
 ### Churn Distribution
 ![Churn Distribution](Slide5.JPG)
 ### Churn by Contract Type
-![Contract Type vs Churn](images/contract_type_churn.png)
-
+![Contract Type vs Churn](Slide6.JPG)
 ### Model Comparison
-![Model Comparison](images/model_comparison.png)
+![Model Comparison](Slide8.JPG)
 
 ### SHAP Summary Plot
-![SHAP Summary Plot](images/shap_summary.png)
+![SHAP Summary Plot](Slide9.JPG)
 
 ---
 
