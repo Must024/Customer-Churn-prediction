@@ -67,8 +67,7 @@ customer-churn-prediction/
 ##  Key Visuals
 
 ### Churn Distribution
-![Churn Distribution](images/churn_distribution.png)
-
+![Churn Distribution](Slide5.JPG)
 ### Churn by Contract Type
 ![Contract Type vs Churn](images/contract_type_churn.png)
 
